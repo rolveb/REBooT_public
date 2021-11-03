@@ -3,7 +3,7 @@
 # Methods for performing quality control on IceRisk analyses
 
 ## IceRisk studies
-Additionally for IceRisk analysis the following resources were presented by Rolv Erlend Bredesen at the Winterwind conferences 2018 and 2019. 
+For IceRisk analysis the following resources were presented by Rolv Erlend Bredesen at the Winterwind conferences 2018 and 2019. 
 
 
 [Norwegian guidelines including uncertainty estimates using strenght of knowledge indices and NUSAP elements](https://windren.se/WW2018/03_2_24_Bredesen_Norwegian_guidelines_regarding_the_risk_of_icethrow_for_the_public_Pub_v2_draft.pdf)
@@ -26,7 +26,6 @@ radio = functools.partial(st.radio, options=['yes','no','NA', 'not answered'], i
 
 _questions = {}
 def callback(key):
-
     if not key in _questions:
         _questions[key] = st.sidebar.container()#sidebar.empty()
     st.write(f'#### {key}')
@@ -38,15 +37,6 @@ def callback(key):
         _questions[key].error(key)
     elif answer == 'NA':
         _questions[key].warning(f'{key}: '+st.text_input('Give reason', key=key+'_description'))
-
-AQT = {}
-
-#radio('J2', key='J2')
-
-# Framing the Analysis and Its Interface With Decision Making
-# TODO A
-# Capturing the Risk Generating Process (RGP)
-# TODO B
 
 sections = ['Framing the Analysis and Its Interface With Decision Making', # A
             'Capturing the Risk Generating Process (RGP)', # B
@@ -64,6 +54,8 @@ sections = ['Framing the Analysis and Its Interface With Decision Making', # A
             'Reporting', # N
             'Budget and Schedule Adequacy', # O
             ]
+
+AQT = {}
 
 # Framing the Analysis and Its Interface With Decision Making
 AQT.update({'A1': """Clarity of the goal of the analysis.
@@ -138,8 +130,7 @@ Example: A major model limited the scope of consequences considered, as a way to
 # Proactive Creation of Alternative Courses of Action
 AQT.update({'F1': 'Are alternative courses of action systematically generated through a process of proactive, goafocused creation? In some cases, an analysis to evaluate a course of action to address a situation focuses on only one “alternative” course of action, or a small set of alternatives that has been defined by some unexamined process or a process external to the analysis. A common wisdom in decision analysis is that often the best way to address a situation is to focus on creating alternatives other than the one or few considered. This AQT is designed to promote a process of examining the  set of alternatives considered to see if one or more  better alternatives can be developed. Of particular concern: Cases where the uncertainty is such that more robust and/or resilient alternatives should be developed, and cases where action-reaction spirals among different parties may lead to unintended consequences.',
             })
-            
-
+           
 
 # Basis of Knowledge
 AQT.update({'G1': 'Is the basis of knowledge characterized? For example: Which inputs are empirically “objective,” which inputs are Subject Matter Expert (SME) elicitation, which inputs are based on testing, which inputs are based on modeling, which knowledge is based on argumentation and reasoning, which aspects are treated with assumptions, which analyses are broadly accepted, which analyses are one of two or more analyses that are consiered acceptable, which analyses are novel and not widely accepted? This characterization of the basis of knowledge may seem impossibly involved in the general case, but for any particular analysis it is quite feasible and of course should be spelled out.',
@@ -152,8 +143,7 @@ AQT.update({'G1': 'Is the basis of knowledge characterized? For example: Which i
             'G6': 'Has there been explicit consideration of the possbility of unconsidered knowledge (i.e., knowledge that others have, outside of the analysis group)? That is, have special measures been implemented to check for this type of knowledge (for example, the use of an independent review of the analysis)?',
             'G7': 'Has there been explicit consideration of the possbility that some events have been disregarded because of very low probabilities, although those probabilities are based on critical assumptions? That is, have special measures been implemented to check for this type of event (for example, signals and warnings concerning the existing knowledge basis)?',
             })
-        
-
+      
 # Data limitations
 AQT.update({'H1': 'Are data limitations systematically analyzed, in particular the implications of those limitations for risk management, then any implications reported to risk managers in language they can understand and apply? Examples of those limitations: Availability and       aspects of data collection.',
             'H2': 'Are the data managed with an adequate data management system that assures each piece of data is accurately logged, and that appropriate levels of QA/QC are maintained, including the ability to demostrate that adequate level of QA/QC to a third party?',
@@ -161,15 +151,14 @@ AQT.update({'H1': 'Are data limitations systematically analyzed, in particular t
             'H4': 'Are the data verified for internal consistency?',
             'H5': 'Where possible, are the data validated against external points of reference? That is, are external points of reference sought, then are the data checked for consistency with those external points?',
 })
+
 # Analysis limitations
 AQT.update({'I1': 'Are all analysis limitations, as they apply to the risk management problem, clearly described? That is, are the limitations of the set of calculations of the analysis, including modeling, explicitly examined, in particular as they apply to the overall risk management sitution at hand? This is as opposed to other limitations covered in two other categories of this battery: » Category G: Basis of Knowledge » Category H: Data Limitations  Notice the overall theme spanning Categories G, H and I: Any risk analysis is subject to limitations in knowledge, data and analyses. Even in the best of cases, those limitations are typically unavoidable. What is important here is that those limitations, and the implications of those limitations, be examined and clearly explained to the risk management decsion makers.',
             'I2': 'Have all calculations in the analysis been verified? That may include extensive sensitivity analyses.',
             'I3': 'Are all metric levels in results (i.e., nominal, ordinal, interval, ratio) supported by metrically valid operations beginning with the data? For example, if the results include bar charts or other formats that present ratiscale data (whether or not the analysts intended  ratio-scale presentation), are those results ratio-scale invariant to metric-allowed variations of the source data? For a specific example from experience: A major model elicited ordinal judgments of probability, then multiplied pairs of those judgments and summed those products into results numbers, presented in scatterplots and bar charts. An analysis with altenative transformations of the original data, shifted by transforms allowable for ordinal metrics, resulted in rank reversals in the bar charts. So in that case the results were not even valid as ordinal metrics.',
             })
 
-            
 # Uncertainty: Sources, Characterization, Implications for Risk Management
-
 AQT.update({'J1': '''Are all of the significant uncertainties listed in one place, and characterized there, and their implictions for decisions described there, in terms risk management decision makers can understand? Do those characterizations provide clear answers on the following key questions: What is uncertain? Who is uncertain? What are the main sources of the uncetainties? How are the uncertainties represented or expressed?''',
             
             # 6 uncertainty sources
@@ -208,12 +197,13 @@ AQT.update({'J1': '''Are all of the significant uncertainties listed in one plac
 # Consideration of Alternative Analysis Approaches
 AQT.update({'K1': 'In some cases more than one analysis approach could be applied. Are all plausible alternative anaysis approaches considered? Then was the adopted analysis approach selected in a logical process?',
 })
-            
+
             
 # Robustness and Resilience of Action Strategies
 AQT.update({'L1': 'Is the need for robustness and resilience of action strategies explicitly examined? In this context by robustness we mean the ability of a system to perform well, without adaptation, when impacted by an attack, accident, or other event. By resilience we mean the ability of a system to respond well or adapt well to an attack, accident, or other event. In both cases, “event” includes any change, disturbance, stressor, etc., both anticipated and unanticipated events. This AQT is crucial, and directly relates to Categories B (Scenarios Not On the List, central reasons for robustness and resilience), F (Proactive Creation of Alternative Courses of Action), and I (Analysis Limitations). At base, here, is the recognition that in many areas, a risk analysis cannot confidently take into consideration all scenarios that could happen. From that it follows that, unless the need for robusness and resilience is explicitly examined, the results of the analysis can fall importantly short of adequately supporting risk management decisions.',
            'L2': 'Do the recommended risk management strategies that follow from the risk analysis include the robusness and resilience called for by the situation? This AQT follows naturally from the one before, and is based on the analysis-limitation logic presented there.',
            })
+
 # Model and Analysis Validation and Documentation            
 AQT.update({'M1': 'Is the model and analysis fully validated, by normal standards of validation in the area of practice that applies?',
             'M2': 'Is the model, analysis, and validation fully docmented, so that a third party review can determine the validity of the model?'
@@ -225,6 +215,7 @@ AQT.update({'N1': 'Are key terms defined?',
             'N3': 'Are the results as expected? If not, is it explained why?',
             'N4': 'Are all possible conflicts of interest fully disclosed?',
             'N5': 'Are all funding sources and amounts fully disclosed?'})
+
 # Budget and Schedule Adequacy
 AQT['O1'] = 'Is the budget and schedule adequate to support the risk analysis at an appropriate level of quality and defensibility? Typically a case can be made for an improved analysis with a larger budget and longer schedule. In the real world there is always a trade-off between analysis quality (as defined by these AQTs), budget and schedule. But this AQT is targeted to sitations where a convincing case can be made that the analysis is too restricted by budget and/or schedule to do an adequate job of supporting the risk managment decisions at hand.'
 
@@ -243,41 +234,28 @@ def main():
         st.checkbox('Consider every discovered shortfall as an "Opportunity To Improve"')
         st.checkbox('Awareness on shortfalls, and the implications of those shortfalls for the decision making')
 
-        #st.write('## RAQT battery')
-        #st.write('NA means not applicable, that means it should be accomanied by an justification if not obvious')
-        #st.write('AQT 1')
-        #answer = st.radio(label='quality question', options = ['yes', 'no', 'not applicable (NA)', 'not answered'], index=3, key='test0')
-        
-        #callback(radio('another question', key='test1'), key='test1_anwer')
-        
-        #{AQT.keys()}
-        #if key.startswith('A')]}
         def ask_questions(group):
             _answers[group] = {key: callback(key) for key in AQT.keys() if key.startswith(group)}
-
 
     with st.expander('Take the survey'):
         st.write('Select which groups to answer in the sidebar.')
         st.write('Hit submit button after completing a group of questions to update the state. The submitted state of each answered question is shown in sidebar.')
-        st.write("Note that for the NA (Not Applicable) choice the text widgets won't show until submit has been pressed")
+        st.write('NA means not applicable, that means it should be accomanied by an justification if not obvious.')
+        st.write("Note that for the NA choice a text widgets to elaborate will show after the submit button has been pressed")
         st.write()
         
         st.write('Hit the download checkbox at the bottom to extract your choices.')
         st.write('\n')
         
-        newline='\n'
-
-
         for i,(key,value) in enumerate(zip(list('ABCDEFGHIJKLMNO'), sections)):
             if st.sidebar.checkbox(f'{key} {sections[i]}', True):
-
                 with st.form(key):
                     st.write(f"### Category {key} \n{value}\n")
                     ask_questions(key)
                     st.form_submit_button()
             st.write('\n')
-    #with stexpander('The battery of questions'):
-    #    st.write(AQT)#sorted(AQT.items()))
+    #with st.expander('The battery of questions'):
+    #    st.write(AQT)
 
     if st.checkbox('Download survey'):
         survey = {key:value for key,value in st.session_state.items() if not 'FormSubmitter' in key}
@@ -285,8 +263,7 @@ def main():
             survey.update(AQT)
             survey.update(dict(zip(list('ABCDEFGHIJKLMNOP'), sections)))
         st.write(repr(survey))
-        #import base64
-        #base64
+        
         
 if __name__ == '__main__':
     main()
