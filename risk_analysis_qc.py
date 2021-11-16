@@ -2,7 +2,7 @@
 """
 # Methods for performing quality control on IceRisk analyses
 
-## IceRisk studies
+## IceRisk related studies and guidelines
 For IceRisk analysis the following resources were presented by Rolv Erlend Bredesen at the Winterwind conferences 2018 and 2019. 
 
 
@@ -10,14 +10,17 @@ For IceRisk analysis the following resources were presented by Rolv Erlend Brede
 
 [A Cross cross-comparison of the IceThrower database with 10 years of SCADA](https://windren.se/WW2019/05_01_Bredesen_A_cross-comparison_of_the_IceThrower_database_with_10_years_of_SCADA_and_meteorological_forecast_data_-_What_can_we_learn_pub_v2.pdf)
 
-The following paper was published in Joournal of Physics - Conference series 2017)
+The following paper was published in Joournal of Physics - Conference series (2017)
+
 [Understanding and acknowledging the ice throw hazard - consequences for regulatory frameworks, risk perception and risk communication](https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012001)
 
 
 The international expert group IEA Wind TCP Task 19 “Wind Energy in Cold Climates” gathers and provides information about wind energy in cold climates. A Guideline on icethrow risk assessments has been published and will be updated in early 2022.
+
 [IEA Wind export group on Wind Energy in Cold climates] (https://iea-wind.org/task19/t19-publications/)
 
 The international Electrotechnical Commision (IEC) is working on a risk assessment standard (due 2022)
+
 [IEC/TS 61400-31 Ed.1.0 Wind energy generation systems - Siting Risk Assessment ](https://www.iec.ch/homepage)
 
 
