@@ -10,7 +10,19 @@ For IceRisk analysis the following resources were presented by Rolv Erlend Brede
 
 [A Cross cross-comparison of the IceThrower database with 10 years of SCADA](https://windren.se/WW2019/05_01_Bredesen_A_cross-comparison_of_the_IceThrower_database_with_10_years_of_SCADA_and_meteorological_forecast_data_-_What_can_we_learn_pub_v2.pdf)
 
+The following paper was published in Joournal of Physics - Conference series 2017)
+[Understanding and acknowledging the ice throw hazard - consequences for regulatory frameworks, risk perception and risk communication](https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012001)
+
+
+The international expert group IEA Wind TCP Task 19 “Wind Energy in Cold Climates” gathers and provides information about wind energy in cold climates. A Guideline on icethrow risk assessments has been published and will be updated in early 2022.
+[IEA Wind export group on Wind Energy in Cold climates] (https://iea-wind.org/task19/t19-publications/)
+
+The international Electrotechnical Commision (IEC) is working on a risk assessment standard (due 2022)
+[IEC/TS 61400-31 Ed.1.0 Wind energy generation systems - Siting Risk Assessment ](https://www.iec.ch/homepage)
+
+
 A Drone campaign (winter 2021) for the WEIC project suggests ice pieces within H+D (wind turbine hub height + rotor diameter)  for 4 m/s winds are sufficient. However up to 10 m/s wind speeds were observed after icing episode before drone pictures were taken.
+
 
 ## The Society for Risk Analyses (SRA) guidelines
 
@@ -221,7 +233,7 @@ AQT['O1'] = 'Is the budget and schedule adequate to support the risk analysis at
 
 _answers = {}
 def main():
-    with st.expander('Overview'):
+    with st.expander('Overview', expanded=True):
         st.write(__doc__)
         st.write('Risk explained by the experts:')
         st.video('https://youtu.be/CbnIlLXeHw0')
@@ -229,6 +241,7 @@ def main():
 
     with st.expander('Risk Analysis Quality Test (RAQT)'):
         st.write('## Goals of RAQT battery')
+
         st.checkbox('Define and measure the quality of risk analyses supporting risk management decisons.', True)
         st.checkbox('Full disclosure of budgets, schedules, competing interests, and other decision factors', True) 
         st.checkbox('Consider every discovered shortfall as an "Opportunity To Improve"')
