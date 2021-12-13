@@ -34,6 +34,11 @@ On how to make judgment on the quality of a risk analysis
 [SRA-Risk-Analysis-Quality-Test-R10.pdf](https://www.sra.org/resources/)
 
 The questions from the quality test is repeated in the survey below.
+
+
+## Guideline Sweden
+[Safetydistance sweden](https://www.energimyndigheten.se/fornybart/vindkraft/vindlov/planering-och-tillstand/miniverk/inledande-skede/halsa-och-sakerhet/nedisning-och-riskavstand/)
+
 """
 import streamlit as st
 import functools
