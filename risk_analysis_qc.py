@@ -27,15 +27,6 @@ The international Electrotechnical Commision (IEC) is working on a risk assessme
 A Drone campaign (winter 2021) for the WEIC project suggests ice pieces within H+D (wind turbine hub height + rotor diameter)  for 4 m/s winds are sufficient. However up to 10 m/s wind speeds were observed after icing episode before drone pictures were taken.
 
 
-## The Society for Risk Analyses (SRA) guidelines
-
-On how to make judgment on the quality of a risk analysis
-
-[SRA-Risk-Analysis-Quality-Test-R10.pdf](https://www.sra.org/resources/)
-
-The questions from the quality test is repeated in the survey below.
-
-
 ## Guideline Sweden
 [Safetydistance sweden](https://www.energimyndigheten.se/fornybart/vindkraft/vindlov/planering-och-tillstand/miniverk/inledande-skede/halsa-och-sakerhet/nedisning-och-riskavstand/)
 
@@ -45,6 +36,17 @@ The questions from the quality test is repeated in the survey below.
 
 ## Effect of ice density on consequence 
 [Showing that rime ice impacts are less dangeous than glaze ice](https://windren.se/WW2018/13_04_23_Bredesen_SINTEFs_crash_test_of_a_potentially_dangerous_frozen_wet-snow_cylinder_at_the_Structural_Impact_Laboratory_Short_v2.pdf)
+
+
+## The Society for Risk Analyses (SRA) guidelines
+
+On how to make judgment on the quality of a risk analysis
+
+[SRA-Risk-Analysis-Quality-Test-R10.pdf](https://www.sra.org/resources/)
+
+The questions from the quality test is repeated in the survey below.
+
+
 """
 import streamlit as st
 import functools
