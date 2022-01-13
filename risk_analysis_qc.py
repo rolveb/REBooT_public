@@ -24,6 +24,10 @@ The international Electrotechnical Commision (IEC) is working on a risk assessme
 [IEC/TS 61400-31 Ed.1.0 Wind energy generation systems - Siting Risk Assessment ](https://www.iec.ch/homepage)
 
 
+An example showing how measures (warning system and security guards) can reduce risk acceptance criteria (risk reduction factor of 50):
+
+[Application of Risk Management and Barrier Management for Structures in Cold Climate. IWAIS 2019](https://iwais2019.is/images/Papers/063_IWAIS_Paper_LR_KVT_rev2.pdf)
+
 A Drone campaign (winter 2021) for the WEIC project suggests ice pieces within H+D (wind turbine hub height + rotor diameter)  for 4 m/s winds are sufficient. However up to 10 m/s wind speeds were observed after icing episode before drone pictures were taken.
 
 
