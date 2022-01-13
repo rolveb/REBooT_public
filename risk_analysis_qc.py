@@ -31,6 +31,17 @@ An example showing how measures (warning system and security guards) can reduce 
 A Drone campaign (winter 2021) for the WEIC project suggests ice pieces within H+D (wind turbine hub height + rotor diameter)  for 4 m/s winds are sufficient. However up to 10 m/s wind speeds were observed after icing episode before drone pictures were taken.
 
 
+## Guideline Sweden
+[Safetydistance sweden](https://www.energimyndigheten.se/fornybart/vindkraft/vindlov/planering-och-tillstand/miniverk/inledande-skede/halsa-och-sakerhet/nedisning-och-riskavstand/)
+
+## Effect of risk reducing measures
+[Example safety system with risk reduction factor of 50, (98 % effectiveness during high risk episodes)](https://iwais2019.is/images/Papers/063_IWAIS_Paper_LR_KVT_rev2.pdf)
+[Recommendations for communicating risk of ice throw/fall in Norwegian wind parks (Jelmer Jeuring and Anders Sivle, Report from Norwegian met institue 2021)](https://www.met.no/publikasjoner/met-report/_/attachment/download/aa71ce22-2156-4966-9549-6348e30f2e75:eeccd1b07fab579fa01d2961e414d65b951d1f46/MET-report-15-2021.pdf)
+
+## Effect of ice density on consequence 
+[Showing that rime ice impacts are less dangeous than glaze ice](https://windren.se/WW2018/13_04_23_Bredesen_SINTEFs_crash_test_of_a_potentially_dangerous_frozen_wet-snow_cylinder_at_the_Structural_Impact_Laboratory_Short_v2.pdf)
+
+
 ## The Society for Risk Analyses (SRA) guidelines
 
 On how to make judgment on the quality of a risk analysis
@@ -38,6 +49,8 @@ On how to make judgment on the quality of a risk analysis
 [SRA-Risk-Analysis-Quality-Test-R10.pdf](https://www.sra.org/resources/)
 
 The questions from the quality test is repeated in the survey below.
+
+
 """
 import streamlit as st
 import functools
