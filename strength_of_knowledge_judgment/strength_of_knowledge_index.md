@@ -1,6 +1,6 @@
 
 ## Strength of knowledge index
-The knowledge is judged as weak if one or more of these conditionsis true:
+The knowledge is judged as weak if one or more of these conditions is true:
   
   - w1) The assumptions made represent strong simplifications.
   - w2) Data/information are/is non-existent or highly unreliable/irrelevant.
