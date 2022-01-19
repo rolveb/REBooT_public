@@ -5,6 +5,7 @@ source of this document: [Norwegian guideline](https://windren.se/WW2018/03_2_24
 
 
 [Understanding and acknowledging the ice throw hazard - consequences for regulatory frameworks, risk perception and risk communication, 2017](https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012001/pdf)
+https://iea-wind.org/task19/t19-publications/
 
 Are the relevant risks controlled? (Norwegian guideline 2018)
 -------------------------------------------------------------
