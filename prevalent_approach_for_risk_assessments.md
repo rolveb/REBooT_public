@@ -20,8 +20,8 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
     - *Describe the uncertainty*
       - e.g. likelihood of described event and associated consequence occuring
       - Probability maps
-    - Asses the confidence in and hte quality of the performed analysis
-      - e.g. using strenghth of knowledge indices: (high/medium/low)
+    - Asses the confidence in and the quality of the performed analysis
+      - e.g. using strength of knowledge indices: (high/medium/low)
       - e.g. Sensitivity on critical assumptions (NUSAP elements with radar charts)
  - Evaluate the identified risk and acceptance criteria
  - *Assess whether and what measures should be taken*
