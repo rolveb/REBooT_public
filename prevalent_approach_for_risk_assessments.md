@@ -15,8 +15,8 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
     - Register the use of rea that may be exposed to ice throw in the area
     - Who is at risk?
     - *Describe the causal and consequence picture*
-       - Relavant initiaint event~s, causes and consequences
-       - barriers mitigatin the risk , barrier failure
+       - Relavant initiating events, causes and consequences
+       - barriers mitigating the risk , barrier failure
     - *Describe the uncertainty*
       - e.g. likelihood of described event and associated consequence occuring
       - Probability maps
