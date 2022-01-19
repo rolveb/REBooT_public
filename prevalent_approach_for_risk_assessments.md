@@ -12,7 +12,7 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
 -------------------------------------------------------------
   - Evaluate the *extent of icing*
   - Assess the risk of icethrow/fall
-    - Register the use of rea that may be exposed to ice throw in the area
+    - Register the use of area that may be exposed to ice throw in the area
     - Who is at risk?
     - *Describe the causal and consequence picture*
        - Relavant initiating events, causes and consequences
