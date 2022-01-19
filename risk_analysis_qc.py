@@ -8,7 +8,7 @@ For IceRisk analysis the following resources were presented by Rolv Erlend Brede
 
 [Norwegian guidelines including uncertainty estimates using strenght of knowledge indices and NUSAP elements](https://windren.se/WW2018/03_2_24_Bredesen_Norwegian_guidelines_regarding_the_risk_of_icethrow_for_the_public_Pub_v2_draft.pdf)
 
-[related resoruces/summary](https://github.com/rolveb/REBooT_public/blob/main/prevalent_approach_for_risk_assessments.md)
+[related resources/summary](https://github.com/rolveb/REBooT_public/blob/main/prevalent_approach_for_risk_assessments.md)
 
 [A Cross cross-comparison of the IceThrower database with 10 years of SCADA](https://windren.se/WW2019/05_01_Bredesen_A_cross-comparison_of_the_IceThrower_database_with_10_years_of_SCADA_and_meteorological_forecast_data_-_What_can_we_learn_pub_v2.pdf)
 
