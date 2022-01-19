@@ -75,6 +75,7 @@ It is recommended to make realistic assumptions on the input parameters
 Strength of knowledge judgments
 -------------------------------
 [NUSAP elements describing uncertainty on e.g. amount of ice](https://raw.githubusercontent.com/rolveb/REBooT_public/main/strength_of_knowledge_judgment/NUSAP_pedigree.py)
+
 [Strenght of knowledge index for e.g. individual risk metric](https://github.com/rolveb/REBooT_public/blob/main/strength_of_knowledge_judgment/strength_of_knowledge_index.md)
 
 Suitable risk mitigation measures in addition to the detailed planning of wind farm
