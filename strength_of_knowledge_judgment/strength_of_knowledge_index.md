@@ -11,12 +11,13 @@ f, on the other hand, all (whenever they are relevant) of the  following conditi
     - s2) Large amounts of reliable and relevant data/information are available.
     - s3) There is broad agreement among experts.
     - s4) The phenomena involved are well understood; the models used are known to give predictions with the required accuracy.
+
 Alternatively divide into weak, moderate-weak, moderate, moderate-strong, and strong background knowledge
 
-    - 1. If risk is found acceptable according to probability with large margins, the risk is judged as acceptable unless the strength of knowledge is weak (in this case the probability based approach should not be given much weight).
-    - 2. If risk is found acceptable according to probability, and the strength of knowledge is strong, the risk is judged as acceptable.
-    - 3. If risk is found acceptable according to probability with moderate or small margins, and the strength of knowledge is not strong, the risk is judged as unacceptable and measures are required to reduce risk.
-    - 4. If risk is found unacceptable according to probability, the risk is judged as unacceptable and measures are required to reduce risk.
+ - 1. If risk is found acceptable according to probability with large margins, the risk is judged as acceptable unless the strength of knowledge is weak (in this case the probability based approach should not be given much weight).
+ - 2. If risk is found acceptable according to probability, and the strength of knowledge is strong, the risk is judged as acceptable.
+ - 3. If risk is found acceptable according to probability with moderate or small margins, and the strength of knowledge is not strong, the risk is judged as unacceptable and measures are required to reduce risk.
+ - 4. If risk is found unacceptable according to probability, the risk is judged as unacceptable and measures are required to reduce risk.
 
 
 ### The judgement on the strength of knowledge can be made according to
