@@ -88,10 +88,10 @@ Suitable risk mitigation measures in addition to the detailed planning of wind f
 
 Establish public knowlege and sufficient understanding
 ------------------------------------------------------
-  - Signs and warning routines/systems should be supplemented with continuous and effective information transfer that hels the user of the area to understand the specific danger.
+  - Signs and warning routines/systems should be supplemented with continuous and effective information transfer that helps the user of the area to understand the specific danger.
      - newspaper articles in local media
      - brochures / information in pocket format that can be distributed
-     - QR codes on signs and more comprehensive information boards at the main entrance of the iwnd power plant.
+     - QR codes on signs and more comprehensive information boards at the main entrance of the wind power plant.
   - It is an advantage that the information about the risk is correct and effective.
 
 
