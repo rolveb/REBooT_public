@@ -16,7 +16,7 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
     - Who is at risk?
     - *Describe the causal and consequence picture*
        - Relevant initiating events, causes and consequences
-       - barriers mitigating the risk , barrier failure
+       - barriers mitigating the risk, barrier failure
     - *Describe the uncertainty*
       - e.g. likelihood of described event and associated consequence occuring
       - Probability maps
