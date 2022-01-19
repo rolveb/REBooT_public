@@ -24,7 +24,8 @@ __author__  = 'Rolv.Bredesen'
 
 pedigree_matrix_research = { # Funtowicz and Ravetz, 1990
     'Score':[4,3,2,1,0],
-    'Theoretical Structure': ['Experimental data', 'Historic /field data', 'Calculated data', 'Educated guesses', 'Uneducated guesses'],
+    'Theoretical Structure': ['Established theroy', 'Theory-based model', 'Computational model', 'Statistical processing', 'Definitions']
+    'Data input': ['Experimental data', 'Historic /field data', 'Calculated data', 'Educated guesses', 'Uneducated guesses'],
     'Peer-acceptance': ['Total', 'High', 'Medium', 'Low', 'None'],
     'Colleague consensus': ['All but cranks', 'All but rebels', 'Competing schools', 'Embryonic Field', 'No']
 }
