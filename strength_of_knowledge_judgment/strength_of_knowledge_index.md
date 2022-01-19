@@ -1,16 +1,17 @@
 
 ## Strength of knowledge index
 The knowledge is judged as weak if one or more of these conditionsis true:
-    - w1) The assumptions made represent strong simplifications.
-    - w2) Data/information are/is non-existent or highly unreliable/irrelevant.
-    - w3) There is strong disagreement among experts.
-    - w4) The phenomena involved are poorly understood; models are non-existent or
-    known/believed to give poor predictions.
-f, on the other hand, all (whenever they are relevant) of the  following conditions are met, the knowledge is considered strong:
-    - s1) The assumptions made are seen as very reasonable.
-    - s2) Large amounts of reliable and relevant data/information are available.
-    - s3) There is broad agreement among experts.
-    - s4) The phenomena involved are well understood; the models used are known to give predictions with the required accuracy.
+  
+  - w1) The assumptions made represent strong simplifications.
+  - w2) Data/information are/is non-existent or highly unreliable/irrelevant.
+  - w3) There is strong disagreement among experts.
+  - w4) The phenomena involved are poorly understood; models are non-existent or known/believed to give poor predictions. 
+ 
+If, on the other hand, all (whenever they are relevant) of the  following conditions are met, the knowledge is considered strong:
+  - s1) The assumptions made are seen as very reasonable.
+  - s2) Large amounts of reliable and relevant data/information are available.
+  - s3) There is broad agreement among experts.
+  - s4) The phenomena involved are well understood; the models used are known to give predictions with the required accuracy.
 
 Alternatively divide into weak, moderate-weak, moderate, moderate-strong, and strong background knowledge
 
