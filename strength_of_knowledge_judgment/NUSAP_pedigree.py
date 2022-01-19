@@ -28,7 +28,7 @@ pedigree_matrix_research = { # Funtowicz and Ravetz, 1990
     'Peer-acceptance': ['Total', 'High', 'Medium', 'Low', 'None'],
     'Colleague consensus': ['All but cranks', 'All but rebels', 'Competing schools', 'Embryonic Field', 'No']
 }
-peddgree_assumptions = { # Flage 31.05.2017 based on van der Sluijs et al., 2005a, 2005b)
+pedigree_assumptions = { # Flage 31.05.2017 based on van der Sluijs et al., 2005a, 2005b)
     'Score': [4,3,2,1,0],
     'Influence of situational limitations time, money etc': ['No such limitations', 'Hardly influenced', 'Moderately influenced', 'Importantly influenced', 'Completely influenced'], # important
     'Plausibility': ['Very plausible', 'Plausible', 'Acceptable', 'Hardly Plausible', 'Fictive or speculative'],
