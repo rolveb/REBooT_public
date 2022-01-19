@@ -8,6 +8,8 @@ For IceRisk analysis the following resources were presented by Rolv Erlend Brede
 
 [Norwegian guidelines including uncertainty estimates using strenght of knowledge indices and NUSAP elements](https://windren.se/WW2018/03_2_24_Bredesen_Norwegian_guidelines_regarding_the_risk_of_icethrow_for_the_public_Pub_v2_draft.pdf)
 
+[related resoruces/summary](https://github.com/rolveb/REBooT_public/blob/main/prevalent_approach_for_risk_assessments.md)
+
 [A Cross cross-comparison of the IceThrower database with 10 years of SCADA](https://windren.se/WW2019/05_01_Bredesen_A_cross-comparison_of_the_IceThrower_database_with_10_years_of_SCADA_and_meteorological_forecast_data_-_What_can_we_learn_pub_v2.pdf)
 
 The following paper was published in Joournal of Physics - Conference series (2017)
@@ -36,6 +38,7 @@ A Drone campaign (winter 2021) for the WEIC project suggests ice pieces within H
 
 ## Effect of risk reducing measures
 [Example safety system with risk reduction factor of 50, (98 % effectiveness during high risk episodes)](https://iwais2019.is/images/Papers/063_IWAIS_Paper_LR_KVT_rev2.pdf)
+
 [Recommendations for communicating risk of ice throw/fall in Norwegian wind parks (Jelmer Jeuring and Anders Sivle, Report from Norwegian met institue 2021)](https://www.met.no/publikasjoner/met-report/_/attachment/download/aa71ce22-2156-4966-9549-6348e30f2e75:eeccd1b07fab579fa01d2961e414d65b951d1f46/MET-report-15-2021.pdf)
 
 ## Effect of ice density on consequence 
