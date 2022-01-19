@@ -83,7 +83,7 @@ Suitable risk mitigation measures in addition to the detailed planning of wind f
   - Designed signs
   - Warning routines
   - Possible sound and light signals
-  - Direct warnign systems (e.g. sms/app)
+  - Direct warning systems (e.g. sms/app)
   - Detection systems
   - Establish public knowledge about the risk
   - Consider physical safeguards and /or curtailment options
