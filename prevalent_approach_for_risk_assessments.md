@@ -17,7 +17,7 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
     - *Describe the causal and consequence picture*
        - Relavant initiaint event~s, causes and consequences
        - barriers mitigatin the risk , barrier failure
-    - *Describe the uncertainty
+    - *Describe the uncertainty*
       - e.g. likelihood of described event and associated consequence occuring
       - Probability maps
     - Asses the confidence in and hte quality of the performed analysis
@@ -36,7 +36,7 @@ Prevalent approach for ice risk assessments (IEA Wind Task 19 (2018))
 An international expert group has agreed on the required aspects of quantitative ~ice throw risk assessments
 
 
-1) Matehmatical trajectory/calculation model
+1. Mathematical trajectory/calculation model
   - Turbine parameters
      - Hub height
      - Rotor diameter
@@ -47,10 +47,10 @@ An international expert group has agreed on the required aspects of quantitative
      - Vertical wind profile
      - Radial distribution of ice on blades
      - No. of relevant fragments
-2) Wind and Icing data
+2. Wind and Icing data
   - Wind statistics representative for periods when icing icing and melting may occur
   - Estimation of amount of ice fragments
-3) Risk assessment
+3. Risk assessment
   - Probability of Persons present
   - Calculation of risk level
   - Threshold for accepted risk levels
