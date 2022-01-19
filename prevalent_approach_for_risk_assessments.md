@@ -67,7 +67,7 @@ It is recommended to make realistic assumptions on the input parameters
 
   - Unless the uncertainty is specified it is recommended to make *conservative assumptions for the following parameters*:
      - Number of ice fragments
-     - Likelihoold / exposure of people
+     - Likelihold / exposure of people
      - Vulnerability / probit function
      - Threshold for accepted risk level
      - Effectivity of measures
