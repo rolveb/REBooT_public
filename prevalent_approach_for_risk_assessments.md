@@ -51,7 +51,7 @@ o 1) Mathematical trajectory/calculation model
 o 2) Wind and Icing data
   - Wind statistics representative for periods when icing icing and melting may occur
   - Estimation of amount of ice fragments
-  -
+  
 o 3) Risk assessment
   - Probability of Persons present
   - Calculation of risk level
