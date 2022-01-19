@@ -1,10 +1,10 @@
 IceRisk (Risk assocatiated with icethrow and icefall from wind turbines)
 ========================================================================
 
-source of this document: (Norwegian guideline)[https://windren.se/WW2018/03_2_24_Bredesen_Norwegian_guidelines_regarding_the_risk_of_icethrow_for_the_public_Pub_v2_draft.pdf]
+source of this document: [Norwegian guideline](https://windren.se/WW2018/03_2_24_Bredesen_Norwegian_guidelines_regarding_the_risk_of_icethrow_for_the_public_Pub_v2_draft.pdf)
 
 
-(Understanding and acknowledging the ice throw hazard - consequences for regulatory frameworks, risk perception and risk communication, 2017)[https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012001/pdf]
+[Understanding and acknowledging the ice throw hazard - consequences for regulatory frameworks, risk perception and risk communication, 2017](https://iopscience.iop.org/article/10.1088/1742-6596/926/1/012001/pdf)
 
 Are the relevant risks controlled? (Norwegian guideline 2018)
 -------------------------------------------------------------
@@ -69,7 +69,7 @@ It is recommended to make realistic assumptions on the input parameters
      - Effectivity of measures
 
 Suitable risk mitigation measures in addition to the detailed planning of wind farm
-
+-----------------------------------------------------------------------------------
   - Designed signs
   - Warning routines
   - Possible sound and light signals
@@ -83,6 +83,7 @@ Suitable risk mitigation measures in addition to the detailed planning of wind f
   - Temporary cordons to prevent traffic during periods of high risk.
 
 Establish public knowlege and sufficient understanding
+------------------------------------------------------
   - Signs and warning routines/systems should be supplemented with continuous and effective information transfer that hels the user of the area to understand the specific danger.
      - newspaper articles in local media
      - brochures / information in pocket format that can be distributed
