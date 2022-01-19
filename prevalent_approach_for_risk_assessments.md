@@ -33,7 +33,7 @@ Are the relevant risks controlled? (Norwegian guideline 2018)
 Prevalent approach for ice risk assessments (IEA Wind Task 19 (2018))
 ---------------------------------------------------------------------
 
-An international expert group has agreed on the required aspects of quantitative ~ice throw risk assessments
+An international expert group has agreed on the required aspects of quantitative ice throw risk assessments
 
 
 o 1) Mathematical trajectory/calculation model
