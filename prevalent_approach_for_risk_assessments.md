@@ -36,7 +36,7 @@ Prevalent approach for ice risk assessments (IEA Wind Task 19 (2018))
 An international expert group has agreed on the required aspects of quantitative ~ice throw risk assessments
 
 
-1. Mathematical trajectory/calculation model
+o 1) Mathematical trajectory/calculation model
   - Turbine parameters
      - Hub height
      - Rotor diameter
@@ -47,10 +47,10 @@ An international expert group has agreed on the required aspects of quantitative
      - Vertical wind profile
      - Radial distribution of ice on blades
      - No. of relevant fragments
-2. Wind and Icing data
+o 2) Wind and Icing data
   - Wind statistics representative for periods when icing icing and melting may occur
   - Estimation of amount of ice fragments
-3. Risk assessment
+o 3) Risk assessment
   - Probability of Persons present
   - Calculation of risk level
   - Threshold for accepted risk levels
